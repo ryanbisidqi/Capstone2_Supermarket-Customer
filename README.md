@@ -65,5 +65,9 @@ Dan dari hasil analisis juga kita mendapatkan gambaran secara keseluruhan untuk 
     1. Membangun customer database dengan memberikan kupon potongan harga untuk setiap pembelian melalui website sebagai leads magnet dengan cara mengisi nama dan email customer. Sehingga kita bisa membangun CRM melalui email customer untuk memberikan campaign promo khusus transaksi melalui website.
     2. Membuat iklan di sosial media dengan target area sekitar untuk meningkatkan traffic kedalam website.
     3. Menambahkan fitur pesan antar untuk radius yang sekiranya masih terjangkau untuk optimasi penjualan melalui website sehingga memudahkan customer untuk berbelanja.
+ 
+  Untuk lebih jelas mengenai hasil analisis dari dataset supermarket customer bida dilihat memalui link dibawah ini :
+
+  https://public.tableau.com/app/profile/ryan.bisidqi/viz/Capstone2SupermarketCustomer/Dashboard4?publish=yes
       
 
