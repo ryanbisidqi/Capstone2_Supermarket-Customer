@@ -49,4 +49,21 @@ Dengan demikian, hal ini dapat secara signifikan berdampak pada kesuksesan bisni
 
 **4. Metode Penjualan Yang paling Banyak Digunakan Customer**
 - Metode belanja melalui toko menjadi pilihan kebanyakan custoemr dengan mendatangkan revenue sebesar 12595.
-- Penjualan melalui website menjadi pilihan terakhir customer dengan memberikan revenue sebesar 5955. 
+- Penjualan melalui website menjadi pilihan terakhir customer dengan memberikan revenue sebesar 5955.
+
+### **Rekomendasi**
+
+Setelah kita melakukan analisis secara mendalam pada data selama 2 tahun terakhir. Kita bisa menilai bahwa perilaku belanja customer dipengaruh oleh beberapa faktor, yaitu Usia, pendidikan dan pendapatan. Dari kesemua faktor tersebut faktor penghasilan yang menurut kami memberikan relevansi kuat terhadap perilaku konsuntif costumer, semakin tinggi penghasilan customer maka semakin tinggi juga tingkat belanja customer.
+
+Dan dari hasil analisis juga kita mendapatkan gambaran secara keseluruhan untuk menentukan target costumer dan produk yang bisa ditawarkan . sehingga bisa meningkatkan penjualan secara exponensial. Adapun beberapa buyer persona yang bisa dijadikan acuan untuk campaign selanjutnya.
+
+- Produk wine yang paling relevan Usia Dewasa dan Lansia berpenghasilan high dan very high dengan latar pendidikan graduate dan post graduate paling relevan sebagai target market untuk promosi produk wine, karena sebagian besar pembelian melalui toko, bisa menambahkan strategi penjualan berupa up selling dan bundling.
+
+- Target custoemr yang relevan untuk produk meat adalah customer dengan kelompok usia lansia berpenghasilan high dan very high dengan pendidikan hampir semua dan memiliki status menikah maupun divorced, kita bisa menggunakan catalog sebagai metode pembayaran. Dengan memberikan brosur dan juga kupon potongan harga untuk produk lainnya. 
+
+- Karena dinilai penjualan melalui web belum terlalu optimal, ada beberapa opsi untuk meningkatkan penjualan melalui website. 
+    1. Membangun customer database dengan memberikan kupon potongan harga untuk setiap pembelian melalui website sebagai leads magnet dengan cara mengisi nama dan email customer. Sehingga kita bisa membangun CRM melalui email customer untuk memberikan campaign promo khusus transaksi melalui website.
+    2. Membuat iklan di sosial media dengan target area sekitar untuk meningkatkan traffic kedalam website.
+    3. Menambahkan fitur pesan antar untuk radius yang sekiranya masih terjangkau untuk optimasi penjualan melalui website sehingga memudahkan customer untuk berbelanja.
+      
+
